@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensor Data Graphs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            background-color: #363636;
+            color: white;
+            padding: 20px 0;
+            margin: 0 0 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        img {
+            width: 80%;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sensor Data Graphs</h1>
+    <div class="container">
+        <h2>Temperatura</h2>
+        <img src="{{ temp_graph }}" alt="Temperature Graph">
+        
+        <h2>Umiditatea</h2>
+        <img src="{{ hum_graph }}" alt="Humidity Graph">
+        
+        <h2>Heat Index</h2>
+        <img src="{{ heat_index_graph }}" alt="Heat Index Graph">
+    </div>
+</body>
+</html>
+
