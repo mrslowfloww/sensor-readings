@@ -1,0 +1,432 @@
+[12/05/2024]
+highest temp: 22.06 12/05/2024 14:55
+lowest temp: 7.04 12/05/2024 03:59
+highest hum: 63.64 12/05/2024 04:05
+lowest hum: 51.28 12/05/2024 13:55
+highest heat_index: 21.61 12/05/2024 14:55
+lowest heat_index: 7.02 12/05/2024 03:59
+
+[13/05/2024]
+highest temp: 22.06 13/05/2024 15:55
+lowest temp: 7.04 13/05/2024 04:33
+highest hum: 63.64 13/05/2024 04:36
+lowest hum: 51.28 13/05/2024 18:36
+highest heat_index: 21.61 13/05/2024 15:55
+lowest heat_index: 7.02 13/05/2024 04:33
+
+[14/05/2024]
+highest temp: 24.18 14/05/2024 16:11
+lowest temp: 11.44 14/05/2024 03:26
+highest hum: 58.36 14/05/2024 16:11
+lowest hum: 46.92 14/05/2024 03:26
+highest heat_index: 24.01 14/05/2024 16:11
+lowest heat_index: 11.02 14/05/2024 03:26
+
+[15/05/2024]
+highest temp: 19.16 15/05/2024 14:00
+lowest temp: 9.44 15/05/2024 06:00
+highest hum: 62.36 15/05/2024 14:00
+lowest hum: 47.92 15/05/2024 06:00
+highest heat_index: 19.29 15/05/2024 14:00
+lowest heat_index: 9.22 15/05/2024 06:00
+
+[16/05/2024]
+highest temp: 20.11 16/05/2024 15:00
+lowest temp: 8.63 16/05/2024 00:00
+highest hum: 68.26 16/05/2024 16:00
+lowest hum: 45.29 16/05/2024 01:00
+highest heat_index: 19.89 16/05/2024 15:00
+lowest heat_index: 7.93 16/05/2024 00:00
+
+[17/05/2024]
+highest temp: 22.07 17/05/2024 15:36
+lowest temp: 10.96 17/05/2024 23:36
+highest hum: 62.06 17/05/2024 23:36
+lowest hum: 40.02 17/05/2024 17:36
+highest heat_index: 21.41 17/05/2024 15:36
+lowest heat_index: 9.73 17/05/2024 23:36
+
+[18/05/2024]
+highest temp: 16.33 18/05/2024 12:29
+lowest temp: 7.06 18/05/2024 04:36
+highest hum: 92.14 18/05/2024 23:39
+lowest hum: 65.03 18/05/2024 14:33
+highest heat_index: 15.99 18/05/2024 12:29
+lowest heat_index: 6.05 18/05/2024 02:36
+
+[19/05/2024]
+highest temp: 24.3 19/05/2024 16:00
+lowest temp: 8.78 19/05/2024 05:39
+highest hum: 96.82 19/05/2024 05:39
+lowest hum: 49.67 19/05/2024 18:00
+highest heat_index: 24.09 19/05/2024 16:00
+lowest heat_index: 8.24 19/05/2024 05:39
+
+[20/05/2024]
+highest temp: 26.71 20/05/2024 15:00
+lowest temp: 8.72 20/05/2024 05:00
+highest hum: 96.78 20/05/2024 05:00
+lowest hum: 42.26 20/05/2024 14:00
+highest heat_index: 26.78 20/05/2024 15:00
+lowest heat_index: 8.17 20/05/2024 05:00
+
+[21/05/2024]
+highest temp: 28.04 21/05/2024 15:00
+lowest temp: 7.92 21/05/2024 05:00
+highest hum: 88.63 21/05/2024 05:00
+lowest hum: 39.67 21/05/2024 15:00
+highest heat_index: 27.68 21/05/2024 15:00
+lowest heat_index: 7.09 21/05/2024 05:00
+
+[22/05/2024]
+highest temp: 27.97 22/05/2024 13:00
+lowest temp: 10.02 22/05/2024 05:00
+highest hum: 88.29 22/05/2024 05:00
+lowest hum: 37.49 22/05/2024 18:00
+highest heat_index: 27.72 22/05/2024 13:00
+lowest heat_index: 9.39 22/05/2024 05:00
+
+[23/05/2024]
+highest temp: 28.98 23/05/2024 13:00
+lowest temp: 10.12 23/05/2024 05:00
+highest hum: 87.66 23/05/2024 05:00
+lowest hum: 35.15 23/05/2024 19:00
+highest heat_index: 28.46 23/05/2024 16:00
+lowest heat_index: 9.47 23/05/2024 05:00
+
+[24/05/2024]
+highest temp: 31.33 24/05/2024 16:00
+lowest temp: 11.7 24/05/2024 05:00
+highest hum: 80.93 24/05/2024 06:00
+lowest hum: 29.53 24/05/2024 14:00
+highest heat_index: 30.22 24/05/2024 16:00
+lowest heat_index: 11.03 24/05/2024 05:00
+
+[25/05/2024]
+highest temp: 33.56 25/05/2024 20:00
+lowest temp: 14.48 25/05/2024 05:00
+highest hum: 68.98 25/05/2024 03:00
+lowest hum: 28.44 25/05/2024 20:00
+highest heat_index: 32.47 25/05/2024 20:00
+lowest heat_index: 13.77 25/05/2024 05:00
+
+[26/05/2024]
+highest temp: 27.81 26/05/2024 15:00
+lowest temp: 9.08 26/05/2024 06:00
+highest hum: 77.5 26/05/2024 06:00
+lowest hum: 28.03 26/05/2024 14:00
+highest heat_index: 26.88 26/05/2024 15:00
+lowest heat_index: 8.06 26/05/2024 06:00
+
+[27/05/2024]
+highest temp: 20.66 27/05/2024 18:00
+lowest temp: 13.0 27/05/2024 04:00
+highest hum: 90.37 27/05/2024 04:00
+lowest hum: 50.77 27/05/2024 18:00
+highest heat_index: 20.11 27/05/2024 18:00
+lowest heat_index: 12.72 27/05/2024 04:00
+
+[28/05/2024]
+highest temp: 26.68 28/05/2024 15:00
+lowest temp: 14.74 28/05/2024 06:00
+highest hum: 94.92 28/05/2024 23:00
+lowest hum: 53.17 28/05/2024 15:00
+highest heat_index: 27.3 28/05/2024 15:00
+lowest heat_index: 14.65 28/05/2024 06:00
+
+[29/05/2024]
+highest temp: 26.0 29/05/2024 15:00
+lowest temp: 14.56 29/05/2024 05:00
+highest hum: 99.25 29/05/2024 07:00
+lowest hum: 64.61 29/05/2024 14:00
+highest heat_index: 26.39 29/05/2024 15:00
+lowest heat_index: 14.66 29/05/2024 05:00
+
+[30/05/2024]
+highest temp: 23.21 30/05/2024 11:00
+lowest temp: 12.19 30/05/2024 04:00
+highest hum: 100.0 30/05/2024 05:00
+lowest hum: 73.08 30/05/2024 12:00
+highest heat_index: 23.53 30/05/2024 11:00
+lowest heat_index: 12.04 30/05/2024 04:00
+
+[31/05/2024]
+highest temp: 28.61 31/05/2024 14:00
+lowest temp: 14.64 31/05/2024 02:00
+highest hum: 100.0 31/05/2024 05:00
+lowest hum: 55.29 31/05/2024 14:00
+highest heat_index: 29.78 31/05/2024 14:00
+lowest heat_index: 14.73 31/05/2024 02:00
+
+[01/06/2024]
+highest temp: 31.85 01/06/2024 15:00
+lowest temp: 14.95 01/06/2024 05:00
+highest hum: 100.0 01/06/2024 05:00
+lowest hum: 46.11 01/06/2024 15:00
+highest heat_index: 33.23 01/06/2024 15:00
+lowest heat_index: 15.11 01/06/2024 05:00
+
+[02/06/2024]
+highest temp: 32.9 02/06/2024 13:00
+lowest temp: 17.29 02/06/2024 05:00
+highest hum: 97.9 02/06/2024 05:00
+lowest hum: 44.13 02/06/2024 15:00
+highest heat_index: 36.79 02/06/2024 13:00
+lowest heat_index: 17.63 02/06/2024 05:00
+
+[03/06/2024]
+highest temp: 32.92 03/06/2024 15:00
+lowest temp: 17.36 03/06/2024 06:00
+highest hum: 88.09 03/06/2024 06:00
+lowest hum: 40.69 03/06/2024 17:00
+highest heat_index: 34.24 03/06/2024 15:00
+lowest heat_index: 17.45 03/06/2024 06:00
+
+[04/06/2024]
+highest temp: 30.73 04/06/2024 11:00
+lowest temp: 19.43 04/06/2024 06:00
+highest hum: 95.12 04/06/2024 03:00
+lowest hum: 59.03 04/06/2024 11:00
+highest heat_index: 34.06 04/06/2024 11:00
+lowest heat_index: 19.88 04/06/2024 06:00
+
+[05/06/2024]
+highest temp: 31.54 05/06/2024 15:00
+lowest temp: 17.07 05/06/2024 05:00
+highest hum: 95.52 05/06/2024 05:00
+lowest hum: 52.46 05/06/2024 18:00
+highest heat_index: 34.41 05/06/2024 15:00
+lowest heat_index: 17.33 05/06/2024 05:00
+
+[06/06/2024]
+highest temp: 32.39 06/06/2024 15:00
+lowest temp: 18.26 06/06/2024 06:00
+highest hum: 87.3 06/06/2024 06:00
+lowest hum: 45.49 06/06/2024 15:00
+highest heat_index: 34.0 06/06/2024 15:00
+lowest heat_index: 18.42 06/06/2024 06:00
+
+[07/06/2024]
+highest temp: 33.92 07/06/2024 16:00
+lowest temp: 16.0 07/06/2024 05:00
+highest hum: 91.97 07/06/2024 05:00
+lowest hum: 38.54 07/06/2024 15:00
+highest heat_index: 35.04 07/06/2024 16:00
+lowest heat_index: 16.06 07/06/2024 05:00
+
+[08/06/2024]
+highest temp: 30.94 08/06/2024 16:00
+lowest temp: 17.74 08/06/2024 22:00
+highest hum: 93.06 08/06/2024 21:00
+lowest hum: 54.29 08/06/2024 16:00
+highest heat_index: 33.4 08/06/2024 16:00
+lowest heat_index: 18.0 08/06/2024 22:00
+
+[09/06/2024]
+highest temp: 31.47 09/06/2024 15:00
+lowest temp: 15.16 09/06/2024 04:00
+highest hum: 98.53 09/06/2024 05:00
+lowest hum: 53.52 09/06/2024 16:00
+highest heat_index: 35.57 09/06/2024 15:00
+lowest heat_index: 15.3 09/06/2024 04:00
+
+[10/06/2024]
+highest temp: 33.41 10/06/2024 16:00
+lowest temp: 20.01 10/06/2024 03:00
+highest hum: 95.14 10/06/2024 03:00
+lowest hum: 54.69 10/06/2024 15:00
+highest heat_index: 39.28 10/06/2024 16:00
+lowest heat_index: 20.55 10/06/2024 03:00
+
+[11/06/2024]
+highest temp: 33.41 11/06/2024 15:00
+lowest temp: 20.39 11/06/2024 06:00
+highest hum: 92.61 11/06/2024 06:00
+lowest hum: 61.26 11/06/2024 15:00
+highest heat_index: 41.08 11/06/2024 15:00
+lowest heat_index: 20.9 11/06/2024 06:00
+
+[12/06/2024]
+highest temp: 29.29 12/06/2024 15:00
+lowest temp: 18.03 12/06/2024 05:00
+highest hum: 94.22 12/06/2024 05:00
+lowest hum: 54.87 12/06/2024 17:00
+highest heat_index: 30.97 12/06/2024 15:00
+lowest heat_index: 18.35 12/06/2024 05:00
+
+[13/06/2024]
+highest temp: 21.64 13/06/2024 09:00
+lowest temp: 16.28 13/06/2024 13:00
+highest hum: 98.85 13/06/2024 14:00
+lowest hum: 74.43 13/06/2024 09:00
+highest heat_index: 21.8 13/06/2024 09:00
+lowest heat_index: 16.53 13/06/2024 13:00
+
+[14/06/2024]
+highest temp: 22.03 14/06/2024 15:00
+lowest temp: 16.97 14/06/2024 06:00
+highest hum: 100.0 14/06/2024 06:00
+lowest hum: 88.29 14/06/2024 15:00
+highest heat_index: 22.59 14/06/2024 15:00
+lowest heat_index: 17.33 14/06/2024 06:00
+
+[15/06/2024]
+highest temp: 22.79 15/06/2024 17:00
+lowest temp: 16.95 15/06/2024 05:00
+highest hum: 100.0 15/06/2024 00:00
+lowest hum: 80.71 15/06/2024 18:00
+highest heat_index: 23.25 15/06/2024 17:00
+lowest heat_index: 17.28 15/06/2024 05:00
+
+[16/06/2024]
+highest temp: 27.88 16/06/2024 14:00
+lowest temp: 17.22 16/06/2024 05:00
+highest hum: 94.8 16/06/2024 05:00
+lowest hum: 67.9 16/06/2024 15:00
+highest heat_index: 30.69 16/06/2024 14:00
+lowest heat_index: 17.48 16/06/2024 05:00
+
+[17/06/2024]
+highest temp: 30.81 17/06/2024 14:00
+lowest temp: 15.9 17/06/2024 06:00
+highest hum: 98.83 17/06/2024 04:00
+lowest hum: 57.54 17/06/2024 13:00
+highest heat_index: 34.27 17/06/2024 12:00
+lowest heat_index: 16.09 17/06/2024 06:00
+
+[18/06/2024]
+highest temp: 33.09 18/06/2024 15:00
+lowest temp: 18.03 18/06/2024 05:00
+highest hum: 98.05 18/06/2024 04:00
+lowest hum: 51.63 18/06/2024 15:00
+highest heat_index: 36.96 18/06/2024 15:00
+lowest heat_index: 18.43 18/06/2024 05:00
+
+[19/06/2024]
+highest temp: 34.07 19/06/2024 14:00
+lowest temp: 17.46 19/06/2024 05:00
+highest hum: 94.57 19/06/2024 05:00
+lowest hum: 49.5 19/06/2024 17:00
+highest heat_index: 38.8 19/06/2024 14:00
+lowest heat_index: 17.73 19/06/2024 05:00
+
+[20/06/2024]
+highest temp: 33.55 20/06/2024 11:00
+lowest temp: 19.92 20/06/2024 23:00
+highest hum: 75.14 20/06/2024 04:00
+lowest hum: 47.51 20/06/2024 19:00
+highest heat_index: 39.75 20/06/2024 11:00
+lowest heat_index: 19.51 20/06/2024 23:00
+
+[21/06/2024]
+highest temp: 29.98 21/06/2024 15:00
+lowest temp: 13.06 21/06/2024 05:00
+highest hum: 87.25 21/06/2024 05:00
+lowest hum: 41.95 21/06/2024 15:00
+highest heat_index: 29.9 21/06/2024 17:00
+lowest heat_index: 12.7 21/06/2024 05:00
+
+[22/06/2024]
+highest temp: 32.88 22/06/2024 16:00
+lowest temp: 15.57 22/06/2024 05:00
+highest hum: 93.04 22/06/2024 05:00
+lowest hum: 39.85 22/06/2024 16:00
+highest heat_index: 34.16 22/06/2024 17:00
+lowest heat_index: 15.61 22/06/2024 05:00
+
+[23/06/2024]
+highest temp: 35.1 23/06/2024 17:00
+lowest temp: 19.26 23/06/2024 06:00
+highest hum: 82.06 23/06/2024 06:00
+lowest hum: 45.23 23/06/2024 16:00
+highest heat_index: 39.84 23/06/2024 17:00
+lowest heat_index: 19.39 23/06/2024 06:00
+
+[24/06/2024]
+highest temp: 29.86 24/06/2024 12:00
+lowest temp: 19.48 24/06/2024 06:00
+highest hum: 90.11 24/06/2024 06:00
+lowest hum: 58.6 24/06/2024 12:00
+highest heat_index: 32.31 24/06/2024 12:00
+lowest heat_index: 19.83 24/06/2024 06:00
+
+[25/06/2024]
+highest temp: 29.96 25/06/2024 15:00
+lowest temp: 17.29 25/06/2024 05:00
+highest hum: 84.27 25/06/2024 05:00
+lowest hum: 51.5 25/06/2024 15:00
+highest heat_index: 31.22 25/06/2024 15:00
+lowest heat_index: 17.27 25/06/2024 05:00
+
+[26/06/2024]
+highest temp: 32.55 26/06/2024 14:00
+lowest temp: 15.48 26/06/2024 05:00
+highest hum: 90.11 26/06/2024 05:00
+lowest hum: 42.95 26/06/2024 15:00
+highest heat_index: 33.99 26/06/2024 14:00
+lowest heat_index: 15.43 26/06/2024 05:00
+
+[27/06/2024]
+highest temp: 33.28 27/06/2024 15:00
+lowest temp: 16.08 27/06/2024 05:00
+highest hum: 89.45 27/06/2024 05:00
+lowest hum: 42.45 27/06/2024 15:00
+highest heat_index: 35.25 27/06/2024 14:00
+lowest heat_index: 16.08 27/06/2024 05:00
+
+[29/06/2024]
+highest temp: 34.31 29/06/2024 13:00
+lowest temp: 23.79 29/06/2024 23:00
+highest hum: 65.12 29/06/2024 23:00
+lowest hum: 41.28 29/06/2024 16:00
+highest heat_index: 36.48 29/06/2024 13:00
+lowest heat_index: 23.92 29/06/2024 23:00
+
+[30/06/2024]
+highest temp: 36.1 30/06/2024 15:00
+lowest temp: 18.23 30/06/2024 05:00
+highest hum: 84.7 30/06/2024 05:00
+lowest hum: 38.83 30/06/2024 15:00
+highest heat_index: 38.94 30/06/2024 15:00
+lowest heat_index: 18.32 30/06/2024 05:00
+
+[01/07/2024]
+highest temp: 35.7 01/07/2024 16:00
+lowest temp: 17.48 01/07/2024 05:00
+highest hum: 80.77 01/07/2024 05:00
+lowest hum: 31.3 01/07/2024 14:00
+highest heat_index: 36.24 01/07/2024 16:00
+lowest heat_index: 17.39 01/07/2024 05:00
+
+[02/07/2024]
+highest temp: 35.0 02/07/2024 13:00
+lowest temp: 22.01 02/07/2024 06:00
+highest hum: 69.49 02/07/2024 06:00
+lowest hum: 34.86 02/07/2024 15:00
+highest heat_index: 36.27 02/07/2024 13:00
+lowest heat_index: 22.08 02/07/2024 06:00
+
+[03/07/2024]
+highest temp: 34.06 03/07/2024 16:00
+lowest temp: 22.0 03/07/2024 05:00
+highest hum: 84.92 03/07/2024 06:00
+lowest hum: 40.11 03/07/2024 16:00
+highest heat_index: 36.64 03/07/2024 14:00
+lowest heat_index: 22.45 03/07/2024 05:00
+
+[04/07/2024]
+highest temp: 31.01 04/07/2024 14:00
+lowest temp: 18.04 04/07/2024 05:00
+highest hum: 93.52 04/07/2024 05:00
+lowest hum: 56.42 04/07/2024 15:00
+highest heat_index: 34.18 04/07/2024 14:00
+lowest heat_index: 18.34 04/07/2024 05:00
+
+[05/07/2024]
+highest temp: 31.26 05/07/2024 13:00
+lowest temp: 16.77 05/07/2024 05:00
+highest hum: 89.09 05/07/2024 05:00
+lowest hum: 45.67 05/07/2024 16:00
+highest heat_index: 32.6 05/07/2024 13:00
+lowest heat_index: 16.83 05/07/2024 05:00
+
