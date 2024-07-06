@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensor Data Graphs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            background-color: #363636;
+            color: white;
+            padding: 20px 0;
+            margin: 0 0 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        img {
+            width: 80%;
+            margin: 20px 0;
+        }
+        .btn-container {
+            margin: 20px 0;
+        }
+        .btn {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            background-color: #ccc;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #81ccad;
+        }
+        .btn.active {
+            background-color: #819ccc;
+        }
+    </style>
+    <script>
+        function showGraphs(period) {
+            document.getElementById('7days').style.display = period === '7days' ? 'block' : 'none';
+            document.getElementById('30days').style.display = period === '30days' ? 'block' : 'none';
+
+            // Remove active class from all buttons
+            var buttons = document.getElementsByClassName('btn');
+            for (var i = 0; i < buttons.length; i++) {
+                buttons[i].classList.remove('active');
+            }
+
+            // Add active class to the clicked button
+            var activeButton = period === '7days' ? document.getElementById('btn-7days') : document.getElementById('btn-30days');
+            activeButton.classList.add('active');
+        }
+    </script>
+</head>
+<body onload="showGraphs('7days')">
+    <h1>Sensor Data Graphs</h1>
+    <div class="btn-container">
+        <button id="btn-7days" class="btn active" onclick="showGraphs('7days')"><b>7 Zile</b></button>
+        <button id="btn-30days" class="btn" onclick="showGraphs('30days')"><b>30 Zile</b></button>
+    </div>
+    <div id="7days" class="container">
+        <h2>Temperatura (°C)</h2>
+        <img src="{{ temp_graph_7_days }}" alt="Temperature Graph">
+        
+        <h2>Umiditatea (%)</h2>
+        <img src="{{ hum_graph_7_days }}" alt="Humidity Graph">
+        
+        <h2>Heat Index (°C)</h2>
+        <img src="{{ heat_index_graph_7_days }}" alt="Heat Index Graph">
+    </div>
+    <div id="30days" class="container" style="display:none">
+        <h2>Temperatura</h2>
+        <img src="{{ temp_graph_30_days }}" alt="Temperature Graph">
+        
+        <h2>Umiditatea</h2>
+        <img src="{{ hum_graph_30_days }}" alt="Humidity Graph">
+        
+        <h2>Heat Index</h2>
+        <img src="{{ heat_index_graph_30_days }}" alt="Heat Index Graph">
+    </div>
+</body>
+</html>
